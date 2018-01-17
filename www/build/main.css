@@ -25678,6 +25678,10 @@ ion-navbar.toolbar {
   min-height: calc(46px + env(safe-area-inset-bottom));
 }
 
+ion-toolbar {
+  text-align: center;
+}
+
 ion-icon {
   font-size: 40px;
 }
