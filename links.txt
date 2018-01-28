@@ -1,0 +1,16 @@
+Top Navigation Bar:
+    https://ionicframework.com/docs/api/components/toolbar/Header/
+
+Bottom Navigation Bar:
+    https://ionicframework.com/docs/api/components/toolbar/Footer/
+
+Text:
+    https://ionicframework.com/docs/api/components/typography/Typography/
+
+Buttons:
+    https://ionicframework.com/docs/api/components/button/Button/
+
+Utilities:
+    Icons - https://ionicframework.com/docs/ionicons/
+
+
