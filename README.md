@@ -8,4 +8,4 @@ Setup Ionic http://ionicframework.com/getting-started/
 
 To run the project
 
-    $ npm ionic serve
+    $ ionic serve
