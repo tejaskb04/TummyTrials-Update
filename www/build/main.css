@@ -25684,4 +25684,10 @@ ion-toolbar {
 
 ion-icon {
   font-size: 40px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.start {
+  background: orange;
 }
